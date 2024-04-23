@@ -27,3 +27,7 @@ Both the subscriber and publisher are connected to the same AMQP message broker 
 # Console
 ![image](https://github.com/tvadhisti/module8-publisher/assets/127074983/8a478bc2-b790-4ec6-91ae-cad195f3039e)
 
+# Monitoring Chart
+![image](https://github.com/tvadhisti/module8-publisher/assets/127074983/5771abdd-ff8d-4f19-80fe-74798ff84fbb)
+
+

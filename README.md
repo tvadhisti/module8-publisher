@@ -23,3 +23,7 @@ Both the subscriber and publisher are connected to the same AMQP message broker 
 # Running RabbitMQ 
 
 ![messageImage_1713898592841](https://github.com/tvadhisti/module8-publisher/assets/127074983/e50f6307-833c-408b-8ab4-b49bdbe82d22)
+
+# Console
+![image](https://github.com/tvadhisti/module8-publisher/assets/127074983/8a478bc2-b790-4ec6-91ae-cad195f3039e)
+

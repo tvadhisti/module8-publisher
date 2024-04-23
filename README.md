@@ -19,3 +19,7 @@ The program sends five messages in one run. Each message is about a new user tha
 2. What does the URL "amqp://guest:guest@localhost:5672" mean?
 
 Both the subscriber and publisher are connected to the same AMQP message broker using the URL "amqp://guest:guest@localhost:5672". By using this method, both the subscriber and publisher can send and receive messages to each other through the broker.
+
+# Running RabbitMQ 
+
+![messageImage_1713898592841](https://github.com/tvadhisti/module8-publisher/assets/127074983/e50f6307-833c-408b-8ab4-b49bdbe82d22)
